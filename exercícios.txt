@@ -1,1 +1,2 @@
 git log; git return; git diff.
+git log: mostra o histórico de commits. git return: desfaz um commit. git diff: mostra as diferenças do conteúdo do arquivo em comparação com o último arquivo.
